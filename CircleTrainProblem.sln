@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleTrainProblem", "CircleTrainProblem\CircleTrainProblem.csproj", "{43250648-FEDD-4128-93C8-A41223B29AC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleTrainProblem.Tests", "CircleTrainProblem.Tests\CircleTrainProblem.Tests.csproj", "{AF3BC28F-EED4-4553-B9A8-42C5BF30A006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43250648-FEDD-4128-93C8-A41223B29AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43250648-FEDD-4128-93C8-A41223B29AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43250648-FEDD-4128-93C8-A41223B29AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43250648-FEDD-4128-93C8-A41223B29AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF3BC28F-EED4-4553-B9A8-42C5BF30A006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3BC28F-EED4-4553-B9A8-42C5BF30A006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3BC28F-EED4-4553-B9A8-42C5BF30A006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3BC28F-EED4-4553-B9A8-42C5BF30A006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E846A593-5D17-4C11-B123-14FA1622899A}
+	EndGlobalSection
+EndGlobal
